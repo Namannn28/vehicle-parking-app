@@ -70,14 +70,3 @@ parking_app_24f2000232/
    ```
    http://localhost:5000
    ```
-
-## ✍️ Author
-
-**Name:** Sarang Gajanan Rao  
-**Roll Number:** 24F2000232  
-**Email:** 24f2000232@ds.study.iitm.ac.in
-
-
-## 📄 Notes
-
-AI tools (LLMs) were used for debugging, brainstorming, and learning frontend components while developing this project.
